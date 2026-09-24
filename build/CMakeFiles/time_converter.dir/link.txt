@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/time_converter.dir/main.cpp.o CMakeFiles/time_converter.dir/Time.cpp.o CMakeFiles/time_converter.dir/TimeConverter.cpp.o -o time_converter  libsofa.a 

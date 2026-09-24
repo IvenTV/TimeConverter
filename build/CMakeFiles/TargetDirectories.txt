@@ -1,0 +1,4 @@
+/home/ivan/Рабочий стол/Учёба/TimeConverter/build/CMakeFiles/sofa.dir
+/home/ivan/Рабочий стол/Учёба/TimeConverter/build/CMakeFiles/time_converter.dir
+/home/ivan/Рабочий стол/Учёба/TimeConverter/build/CMakeFiles/edit_cache.dir
+/home/ivan/Рабочий стол/Учёба/TimeConverter/build/CMakeFiles/rebuild_cache.dir
